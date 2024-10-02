@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84081769029",
+    "project_id": "note-e48be",
+    "storage_bucket": "note-e48be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84081769029:android:12f09528c72644e41fc12c",
+        "android_client_info": {
+          "package_name": "com.example.final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxg4UcqGlBCTln9C_GzrvrQbfzGBSl2iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
